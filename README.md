@@ -5,7 +5,7 @@ Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
+* My WhatsApp [`Click Here`](https://wa.me/19099992233?text=Assalamualaikum)
 * My Facebook [`Click Here`](https://facebook.com/ainneboot)
 
 ## Heroku Buildpack
